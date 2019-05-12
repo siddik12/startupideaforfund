@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Startup Idea for Fund</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Startup Idea for Fund</string>
+    <string name="nav_header_subtitle">Unleash Your Talent</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_about">About</string>
+    <string name="menu_innovation_lab">Innovation Lab</string>
+    <string name="menu_speakers">Speakers</string>
+    <string name="menu_advisors">Advisors</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="heading">WHY STARTUP IDEA FOR FUND</string>
+    <string name="detail">Daffodil International University (DIU) is a leading entrepreneurial university in Bangladesh striving to develop an entrepreneurial ecosystem. It has ensured the prestigious QS ranking in Asia. Our University believes, inspires, motivates and works toward the development of student entrepreneurs in Bangladesh. Before completion of the graduation, the students are taught to be independent by creating business for themselves and also to create employment for others. With this motto, DIU organizes the startup idea competition named “Startup Idea for Fund” to support innovative ideas and pool an entrepreneurial platform where students are facilitated by mentoring, grooming, assessment of their ideas,</string>
+    <string name="jonathan">Dr. Jonathan Ortmans</string>
+    <string name="gen">PRESIDENT, GLOBAL ENTREPRENEURSHIP NETWORK (GEN)</string>
+    <string name="sabur_khan">Dr. Md. Sabur Khan</string>
+    <string name="df"><![CDATA[FOUNDER & CHAIRMAN, DAFFODIL FAMILY]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="location">Location</string>
+    <string name="daffodil">Daffodil Business Incubator Building, 105 Shukrabad, Dhanmondi, Dhaka-1207</string>
+    <string name="mail_address">Mail Address</string>
+    <string name="email">reyed.a@daffodilvarsity.edu.bd</string>
+    <string name="contact_no">Contact No</string>
+    <string name="contact">+8801811458880, +8801847140023</string>
+    <string name="contact_nav">Contact</string>
+    <string name="entrepreneurship_development_fund">Entrepreneurship Development Fund</string>
+    <string name="daffodil_business_incubator">Daffodil Business Incubator</string>
+    <string name="venture_capital">Venture Capital</string>
+    <string name="methodology">Methodology</string>
+</resources>

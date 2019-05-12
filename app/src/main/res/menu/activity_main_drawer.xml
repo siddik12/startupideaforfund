@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_methodology"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/methodology" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+
+    </group>
+
+    <item android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_about" />
+            <item
+                android:id="@+id/nav_advisors"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_advisors" />
+            <item
+                android:id="@+id/nav_speakers"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_speakers" />
+
+            <item
+                android:id="@+id/nav_sponsors"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/sponsors" />
+        </menu>
+    </item>
+
+    <item android:title="Facilities">
+        <menu>
+            <item
+                android:id="@+id/nav_entrepreneurship_development_fund"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/entrepreneurship_development_fund" />
+            <item
+                android:id="@+id/nav_innovation_lab"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_innovation_lab" />
+
+            <item
+                android:id="@+id/nav_business_incubator"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/daffodil_business_incubator" />
+
+            <item
+                android:id="@+id/nav_venture_capital"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/venture_capital" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/contact_nav" />
+        </menu>
+    </item>
+
+</menu>
