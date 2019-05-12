@@ -16,6 +16,8 @@ import com.startupideaforfund.app.fragments.AboutFragment;
 import com.startupideaforfund.app.fragments.AdvisorsFragment;
 import com.startupideaforfund.app.fragments.ContactFragment;
 import com.startupideaforfund.app.fragments.DaffodilBusinessIncubatorFragment;
+import com.startupideaforfund.app.fragments.EntrepreneurshipFragment;
+import com.startupideaforfund.app.fragments.GalleryFragment;
 import com.startupideaforfund.app.fragments.HomeFragment;
 import com.startupideaforfund.app.fragments.InnovationLabFragment;
 import com.startupideaforfund.app.fragments.MethodologyFragment;
@@ -98,6 +100,12 @@ public class MainActivity extends AppCompatActivity
             fm.beginTransaction().replace(R.id.frame_layout,fragment).commit();
         } else if (id == R.id.nav_methodology) {
             Fragment fragment = new MethodologyFragment();
+            fm.beginTransaction().replace(R.id.frame_layout,fragment).commit();
+        } else if (id == R.id.nav_entrepreneurship_development_fund) {
+            Fragment fragment = new EntrepreneurshipFragment();
+            fm.beginTransaction().replace(R.id.frame_layout,fragment).commit();
+        } else if (id == R.id.nav_gallery) {
+            Fragment fragment = new GalleryFragment();
             fm.beginTransaction().replace(R.id.frame_layout,fragment).commit();
         }
 
